@@ -1,9 +1,3 @@
-Perfect — let’s level this up to a **clean, professional, portfolio-ready README** that would look solid to recruiters, reviewers, or on GitHub ⭐
-
-You can copy-paste everything below directly into your `README.md`.
-
----
-
 # 🤖 React ChatBot UI (Learning Project)
 
 ![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react\&logoColor=white)
